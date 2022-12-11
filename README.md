@@ -7,3 +7,5 @@ This is a Java project that generates a Maze of specified size and allows for us
 * Sensors are faulty and become nonfunction so the robot is unable to detect surrounding walls until they are repaired and the robot can resume
 * Added maze generation using boruvka's algorithm
 * Implemented command line options for different robot algorithms, combinations of sensors with differing reliabilities and choice over maze building type and manual vs automated playing.
+
+Runs using eclipse or another Java IDE

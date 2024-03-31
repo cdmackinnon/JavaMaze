@@ -15,6 +15,13 @@ This Java project allows for the generation and traversal of mazes with both gra
 * **Maze Generation**: Create mazes using Boruvka's algorithm.
 * **Command Line Options**: Customize robot behavior, sensor reliability, maze generation, and gameplay modes.
 
+## Gameplay
+<p align="center">
+  <img src="Maze.gif" alt="Gameplay GIF">
+  <img src="UnreliableWallFollower.gif" alt="Gameplay GIF">
+</p>
+
+
 ## How to Run
 1. Ensure you have Java JDK installed on your system.
 2. Clone or download the project from the GitLab repository.
